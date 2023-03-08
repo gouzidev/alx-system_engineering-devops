@@ -1,2 +1,4 @@
 #!/bin/bash
-diff . /boot
+ls -a
+ls -a ..
+ls -a /boot
