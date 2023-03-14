@@ -1,0 +1,17 @@
+total 60
+drwxr-xr-x 2 root root   307 Mar 13 18:34 .
+drwxr-xr-x 6 root root   121 Mar 13 17:09 ..
+-rwxrwxrwx 1 root root    32 Mar 13 17:26 0-hello_world
+-rwxr--r-- 1 root root    28 Mar 13 17:37 1-confused_smiley
+-rwxr--r-- 1 root root    28 Mar 13 17:38 2-hellofile
+-rwxr--r-- 1 root root    39 Mar 13 17:39 3-twofiles
+-rwxr--r-- 1 root root    29 Mar 13 17:41 4-lastlines
+-rw-r--r-- 1 root root 12288 Mar 13 17:42 .4-lastlines.swp
+-rwxr--r-- 1 root root    29 Mar 13 17:44 5-firstlines
+-rwxr--r-- 1 root root    37 Mar 13 17:52 6-third_line
+-rwxr--r-- 1 root root    99 Mar 13 18:31 7-file
+-rwxr--r-- 1 root root    41 Mar 13 18:33 8-cwd_state
+-rwxr--r-- 1 root root    12 Mar 13 18:31 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Mar 13 18:34 ls_cwd_content
+-rwxr--r-- 1 root root     6 Mar 13 17:30 README.md
+-rwxrwxrwx 1 root root    66 Mar 13 17:31 runner.sh
