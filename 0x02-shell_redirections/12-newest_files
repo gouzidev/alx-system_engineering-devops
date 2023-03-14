@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Get the list of files in the current directory and sort them by modification time
+files=$(ls -1t)
+
+# Loop through the 10 newest files and print them, one per line
+count=0
+for file in $files; do
+    if [ -f "$file" ]; then  # only include regular files, not directories or other types
+        echo "$file"
+        ((count++))
+    fi
+    if [ "$count" -eq 10 ]; then
+        break  # stop looping after 10 files have been printed
+    fi
+done
