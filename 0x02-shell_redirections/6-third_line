@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 | tail -1 /etc/passwd
+head -3 6-third_line | tail -1 
